@@ -27,10 +27,6 @@ Run the script from the terminal:
   ```bash
   python main.py
 
-Enter the IP address of the WLC when prompted.
-
-Enter your SSH username.
-
-Enter your SSH password (input will be hidden).
+- Enter the IP address of the WLC SSH username and password (input will be hidden).
 
 The script will then connect to the WLC, retrieve the AP summary, and perform the status analysis.
