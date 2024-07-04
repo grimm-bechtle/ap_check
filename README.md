@@ -23,6 +23,9 @@ Before you begin, ensure you have met the following requirements:
 To use the script, follow these steps:
 
 Run the script from the terminal:
+  
+  ```bash
+  python main.py
 
 Enter the IP address of the WLC when prompted.
 
