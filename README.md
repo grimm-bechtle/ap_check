@@ -17,3 +17,18 @@ Before you begin, ensure you have met the following requirements:
 
   ```bash
   pip install netmiko
+
+Access to a Cisco Wireless LAN Controller with SSH enabled.
+SSH credentials (username and password) for the WLC.
+Usage
+To use the script, follow these steps:
+
+Run the script from the terminal:
+
+Enter the IP address of the WLC when prompted.
+
+Enter your SSH username.
+
+Enter your SSH password (input will be hidden).
+
+The script will then connect to the WLC, retrieve the AP summary, and perform the status analysis.
