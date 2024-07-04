@@ -25,7 +25,7 @@ To use the script, follow these steps:
 Run the script from the terminal:
   
   ```bash
-  python main.py
+  python main.py```
 
 - Enter the IP address of the WLC SSH username and password (input will be hidden).
 
