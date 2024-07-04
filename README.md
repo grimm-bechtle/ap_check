@@ -1,1 +1,19 @@
-# ap_check
+# Wireless Controller AP Status Checker
+
+This Python script allows users to connect to a Cisco Wireless LAN Controller (WLC) via SSH to retrieve and analyze the status of Access Points (APs) managed by the WLC.
+
+## Features
+
+- **SSH Connection**: Securely connect to your WLC using SSH.
+- **AP Summary Retrieval**: Fetches a summary of all APs managed by the WLC.
+- **AP Status Analysis**: Analyzes the fabric status of each AP.
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Python 3.x installed on your machine.
+- `netmiko` library installed. You can install it using pip:
+
+  ```bash
+  pip install netmiko
